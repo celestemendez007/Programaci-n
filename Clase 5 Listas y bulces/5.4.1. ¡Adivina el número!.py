@@ -11,7 +11,9 @@ Autor:        Keylen Celeste Méndez Sosa
 Fecha:        2025-05-29
 Estado:       [ Terminado ]
 '''
-n=34
+import random
+n = random.randint(1, 100)
+
 numero=""
 while numero!=n:
     numero=int(input("Ingresa un numero entre 1 y 100: "))
