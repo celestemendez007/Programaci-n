@@ -1,3 +1,14 @@
+'''
+Clase:        #10
+Tema:         Trabajo de Clase 10
+Ejercicio:    Guía Github
+Descripción:  Resolver la guía de trabajo accesible desde: https://evareladev.github.io/fp/2025/study-guide-02/#0Links 
+to an external site. resolver todos los pasos y las preguntas de la sección 5 e incluirlas en un solo archivo Python.
+Autor:        Keylen Celeste Méndez Sosa
+Fecha:        2025-06-02
+Estado:       [ Terminado ]
+'''
+
 import numpy as np
 
 my_list = [1, 2, 3, 4, 5]
